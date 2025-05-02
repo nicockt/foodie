@@ -160,9 +160,9 @@ try:
     
     # Randomly select a place if random pick was clicked
     random_place_data = None
-    if st.session_state.random_place and nearest_places:
-        random_place_idx = random.randint(0, min(len(nearest_places)-1, 9))
-        random_place_data = nearest_places[random_place_idx]
+    if st.session_state.random_place and places:
+        random_place_idx = random.randint(0, len(places) - 1)
+        random_place_data = places[random_place_idx]
         st.session_state.random_place = False
     
     # Create a DataFrame for display
@@ -192,8 +192,7 @@ try:
             places_data.append({
                 "Name": place['name'],
                 "Address": place['address'],
-                "Distance (km)": f"{place['distance_km']:.2f}",
-                "Random Pick": "✅" if is_random_pick else ""
+                "Distance (km)": f"{place['distance_km']:.2f}"
             })
         except Exception as e:
             st.error(f"Error displaying place: {str(e)}")

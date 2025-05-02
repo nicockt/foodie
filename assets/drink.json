@@ -1,0 +1,584 @@
+[
+  {
+    "name": "The Holywell’s Bar",
+    "address": "140 Hollywood Rd, Sheung Wan, Hong Kong",
+    "latitude": 22.2843052,
+    "longitude": 114.1498579
+  },
+  {
+    "name": "Apothecary",
+    "address": "3A, Carfield Commercial Building, 75-77 Wyndham St, Central, Hong Kong",
+    "latitude": 22.2818436,
+    "longitude": 114.1547683
+  },
+  {
+    "name": "Ping Pong 129",
+    "address": "",
+    "latitude": 22.2863229,
+    "longitude": 114.1397016
+  },
+  {
+    "name": "Crushed Wine Bar",
+    "address": "",
+    "latitude": 22.286002999999997,
+    "longitude": 114.143197
+  },
+  {
+    "name": "CALL ME AL",
+    "address": "",
+    "latitude": 22.2863078,
+    "longitude": 114.1460889
+  },
+  {
+    "name": "Whisky & Words",
+    "address": "",
+    "latitude": 22.2839653,
+    "longitude": 114.1523162
+  },
+  {
+    "name": "Plantation Tea Bar",
+    "address": "",
+    "latitude": 22.2848653,
+    "longitude": 114.13637299999999
+  },
+  {
+    "name": "House on Peel",
+    "address": "Soho, 63 Peel St, Central, Hong Kong",
+    "latitude": 22.2822775,
+    "longitude": 114.1521547
+  },
+  {
+    "name": "GOKAN",
+    "address": "30 Ice House St, Central, Hong Kong",
+    "latitude": 22.2802246,
+    "longitude": 114.1564511
+  },
+  {
+    "name": "Oakey Dokey Wine",
+    "address": "21, Peony House Block ¦è®y Peony House West Block, 19 Pok Man St, Tai Kok Tsui, Hong Kong",
+    "latitude": 22.3194207,
+    "longitude": 114.16132329999999
+  },
+  {
+    "name": "Socio Hong Kong",
+    "address": "17 Staunton St, Central, Hong Kong",
+    "latitude": 22.281999,
+    "longitude": 114.15286379999999
+  },
+  {
+    "name": "SOS CSW",
+    "address": "Hong Kong, Cheung Sha Wan, Po On Rd, 65號, Merlin Centre Block D, 地下D6號舖",
+    "latitude": 22.337225399999998,
+    "longitude": 114.15975159999999
+  },
+  {
+    "name": "CURE",
+    "address": "Basement, China United Centre, 28 Marble Rd, North Point, Hong Kong",
+    "latitude": 22.291701999999997,
+    "longitude": 114.20055459999999
+  },
+  {
+    "name": "Mizunara: The Library",
+    "address": "4/F, Kiu Yin Commercial Building, 361-363 Lockhart Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2794152,
+    "longitude": 114.17907579999999
+  },
+  {
+    "name": "Tiffany's New York Bar",
+    "address": "G/F, InterContinental Grand Stanford Hong Kong, 70 Mody Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2990349,
+    "longitude": 114.1790972
+  },
+  {
+    "name": "Hand Shaken Cocktail bar",
+    "address": "Hong Kong, Jordan, 渡船角 文苑街 41號 地舖",
+    "latitude": 22.307632599999998,
+    "longitude": 114.16570139999999
+  },
+  {
+    "name": "二務所 EMO CLUB",
+    "address": "Hong Kong, Tsim Sha Tsui, Hart Ave, 4號5樓",
+    "latitude": 22.297962899999998,
+    "longitude": 114.1746594
+  },
+  {
+    "name": "Bar Anima HK",
+    "address": "Hong Kong, Central, Stanley St, 11號, Stanley 11, 8/F",
+    "latitude": 22.2822371,
+    "longitude": 114.1558142
+  },
+  {
+    "name": "DIO | Cafe Bar",
+    "address": "Hong Kong, Central, Aberdeen St, 8 號地下 A 舖",
+    "latitude": 22.283923299999998,
+    "longitude": 114.15303809999999
+  },
+  {
+    "name": "Pho Bo",
+    "address": "Hong Kong, Sham Shui Po, Fuk Wing St, 124號, 110 Fuk Wing Street, 號地下",
+    "latitude": 22.3326058,
+    "longitude": 114.1620677
+  },
+  {
+    "name": "AVOCA",
+    "address": "38/F, Mondrian, 8A Hart Ave, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2976487,
+    "longitude": 114.1748233
+  },
+  {
+    "name": "ORCHARD",
+    "address": "28 Gage St, Central, Hong Kong",
+    "latitude": 22.2834038,
+    "longitude": 114.1532189
+  },
+  {
+    "name": "House Welley Whisky Bar",
+    "address": "Unit A, 2nd Floor, 97 Wellington St, Central, Hong Kong",
+    "latitude": 22.283590099999998,
+    "longitude": 114.1542815
+  },
+  {
+    "name": "MaltCask 麥芽堂",
+    "address": "G/F, 169 Sai Yeung Choi St N, Mong Kok, Hong Kong",
+    "latitude": 22.325817999999998,
+    "longitude": 114.16855799999999
+  },
+  {
+    "name": "TakeOut Comedy Club",
+    "address": "34 Elgin St, Central, Hong Kong",
+    "latitude": 22.281731399999998,
+    "longitude": 114.15265649999999
+  },
+  {
+    "name": "Wanchai Stadium",
+    "address": "Shop A3, 72-86 Lockhart Rd, Wan Chai, Hong Kong",
+    "latitude": 22.278024499999997,
+    "longitude": 114.1714846
+  },
+  {
+    "name": "Cheek to Cheek Soho",
+    "address": "17 Old Bailey Street, Old Bailey St, Central, Hong Kong",
+    "latitude": 22.281494799999997,
+    "longitude": 114.1534903
+  },
+  {
+    "name": "Ittaikan",
+    "address": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 4 Chome−14−1 石田ビル銀座 1階",
+    "latitude": 35.669501499999996,
+    "longitude": 139.76934459999998
+  },
+  {
+    "name": "Avenue75",
+    "address": "Hong Kong, Tsim Sha Tsui, Shop 36-41 G/F SOUTH SEAS CENTRE 75 MODY ROAD T.S.T EAST",
+    "latitude": 22.2993679,
+    "longitude": 114.1789124
+  },
+  {
+    "name": "Moonkok (Mong Kok)",
+    "address": "88 Shantung St, Mong Kok, Hong Kong",
+    "latitude": 22.317857099999998,
+    "longitude": 114.1725379
+  },
+  {
+    "name": "Bad Coffee & Liquor Club",
+    "address": "Shop 19, G/F, Alhambra Building, 385 Nathan Rd, Yau Ma Tei, Hong Kong",
+    "latitude": 22.3086532,
+    "longitude": 114.17102899999999
+  },
+  {
+    "name": "REV-NOW",
+    "address": "106, Taiwan, Taipei City, Da’an District, Yanji St, 259號號 B1",
+    "latitude": 25.034453,
+    "longitude": 121.55671219999999
+  },
+  {
+    "name": "ASOBIBAR 渋谷横丁前店",
+    "address": "Japan, 〒150-0041 Tokyo, Shibuya City, Jinnan, 1 Chome−22−10 皆川ビル 4階",
+    "latitude": 35.661446999999995,
+    "longitude": 139.7010494
+  },
+  {
+    "name": "TAP: The Ale Project",
+    "address": "G/F, 19 Hak Po St, Mong Kok, Hong Kong",
+    "latitude": 22.3175644,
+    "longitude": 114.1726101
+  },
+  {
+    "name": "Delaney's The Irish Pub",
+    "address": "Basement, Mary Building, 71-77 Peking Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2963608,
+    "longitude": 114.1716878
+  },
+  {
+    "name": "Delaneys Wanchai",
+    "address": "57-73, Lockhart Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2783586,
+    "longitude": 114.1711064
+  },
+  {
+    "name": "Salon Number 10",
+    "address": "10號 Arbuthnot Rd, Central, Hong Kong",
+    "latitude": 22.279968399999998,
+    "longitude": 114.1546992
+  },
+  {
+    "name": "The Stage",
+    "address": "2/F, The Heritage Woo Cheong Pawn Shop, 60. 66 Johnston Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2762411,
+    "longitude": 114.1714557
+  },
+  {
+    "name": "Bar Q88",
+    "address": "Lobby Level, JW Marriott Hotel Hong Kong, Pacific Place, 88 Queensway, Admiralty, Hong Kong",
+    "latitude": 22.277408899999998,
+    "longitude": 114.1661374
+  },
+  {
+    "name": "The Trilogy",
+    "address": "26/F, H Code, 45 Pottinger St, Central, Hong Kong",
+    "latitude": 22.282266999999997,
+    "longitude": 114.1545129
+  },
+  {
+    "name": "The Opposites",
+    "address": "LG/F, Hilltop Plaza, 49 Hollywood Rd, Central, Hong Kong",
+    "latitude": 22.2827271,
+    "longitude": 114.1532245
+  },
+  {
+    "name": "Intention",
+    "address": "106, Taiwan, Taipei City, Da’an District, 敦化南路1段219號2樓",
+    "latitude": 25.0410494,
+    "longitude": 121.54929899999999
+  },
+  {
+    "name": "Bar Mood Taipei",
+    "address": "No. 53號, Lane 160, Section 1, Dunhua S Rd, Da’an District, Taipei City, Taiwan 106",
+    "latitude": 25.043701,
+    "longitude": 121.5466392
+  },
+  {
+    "name": "The Pontiac",
+    "address": "13 Old Bailey St, Central, Hong Kong",
+    "latitude": 22.2816109,
+    "longitude": 114.153555
+  },
+  {
+    "name": "DarkSide",
+    "address": "Rosewood Hong Kong Victoria Dockside, 18 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2949764,
+    "longitude": 114.1758105
+  },
+  {
+    "name": "The Aubrey",
+    "address": "5 Connaught Road, Central, Hong Kong",
+    "latitude": 22.2818941,
+    "longitude": 114.15944859999999
+  },
+  {
+    "name": "Stockton",
+    "address": "32 Wyndham St, Central, Hong Kong",
+    "latitude": 22.2799211,
+    "longitude": 114.15529819999999
+  },
+  {
+    "name": "Jack's Racquet Room",
+    "address": "2/F, Central Magistracy, Tai Kwun, 1 Arbuthnot Road, Central, Central, Central, Hong Kong",
+    "latitude": 22.281168599999997,
+    "longitude": 114.154023
+  },
+  {
+    "name": "The Public House",
+    "address": "10681, Taiwan, Taipei City, Da’an District, Section 4, Xinyi Road, 143號一樓",
+    "latitude": 25.0334444,
+    "longitude": 121.5496179
+  },
+  {
+    "name": "Bar Digout",
+    "address": "No. 307, Section 4, Xinyi Road, Da’an District, Taipei City, Taiwan 106",
+    "latitude": 25.033291799999997,
+    "longitude": 121.55563799999999
+  },
+  {
+    "name": "TopTown",
+    "address": "31/F, 28 Stanley St, Central, Hong Kong",
+    "latitude": 22.282312899999997,
+    "longitude": 114.15544009999999
+  },
+  {
+    "name": "Moona Lounge & Bar",
+    "address": "Hong Kong, Mong Kok, Nathan Rd, 594-596號, Mongkok Metro, 8樓",
+    "latitude": 22.316221,
+    "longitude": 114.1702936
+  },
+  {
+    "name": "J.Moon Lounge",
+    "address": "Pakpolee Commercial Centre, Unit 410-411, 4/F, 1A Sai Yeung Choi St S, Mong Kok, Hong Kong",
+    "latitude": 22.3162789,
+    "longitude": 114.17047939999999
+  },
+  {
+    "name": "OZONE",
+    "address": "International Commerce Centre (ICC), 118/F, The Ritz-Carlton, Hong Kong, 1 Austin Rd W, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.303398599999998,
+    "longitude": 114.1601865
+  },
+  {
+    "name": "Faye",
+    "address": "25-26/f, California Tower, 30-32 D'Aguilar St, Central, Hong Kong",
+    "latitude": 22.2808589,
+    "longitude": 114.1555099
+  },
+  {
+    "name": "Dadaocheng Wharf Container Market",
+    "address": "103, Taiwan, Taipei City, Datong District, Minsheng W Rd, 底五號水門, 大稻埕碼頭貨櫃市集",
+    "latitude": 25.056128299999997,
+    "longitude": 121.5074276
+  },
+  {
+    "name": "Fake Sober Taipei",
+    "address": "No. 20號, Songshou Rd, Xinyi District, Taipei City, Taiwan 110",
+    "latitude": 25.0352052,
+    "longitude": 121.56745029999999
+  },
+  {
+    "name": "Insomnia",
+    "address": "Lan Kwai Fong, 30-32 D'Aguilar St, Hong Kong",
+    "latitude": 22.2808892,
+    "longitude": 114.1553331
+  },
+  {
+    "name": "Draft Land CWB",
+    "address": "1-29, Soundwill Plaza II Midtown, Shop D, G/F, Tang Lung St, Causeway Bay, Hong Kong",
+    "latitude": 22.2790538,
+    "longitude": 114.18186779999999
+  },
+  {
+    "name": "形 Katachi Bar & Kushiyaki ( 將軍澳唐俊街 28 號 )",
+    "address": "Hong Kong, Hang Hau, 將軍澳唐俊街 28 號 OCEAN POPWALK地下G08號鋪",
+    "latitude": 22.3038584,
+    "longitude": 114.2606994
+  },
+  {
+    "name": "McGee's Pub",
+    "address": "240 W 55th St, New York, NY 10019, United States",
+    "latitude": 40.76484,
+    "longitude": -73.982993
+  },
+  {
+    "name": "Terrible Baby",
+    "address": "4/F, Eaton HK, 380 Nathan Rd, Jordan, Hong Kong",
+    "latitude": 22.3080401,
+    "longitude": 114.1717085
+  },
+  {
+    "name": "KABOOM",
+    "address": "20/F, Prince Tower, 12A Peking Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.296510299999998,
+    "longitude": 114.1713719
+  },
+  {
+    "name": "Mostly Harmless",
+    "address": "2 f, 110 Queen's Rd W, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2861466,
+    "longitude": 114.14611649999999
+  },
+  {
+    "name": "Hong Kong Reader",
+    "address": "Hong Kong, Mong Kok, Sai Yeung Choi St S, 68號號 7F",
+    "latitude": 22.3186161,
+    "longitude": 114.170262
+  },
+  {
+    "name": "Chocolate",
+    "address": "Lan Kwai Fong No. 2, G/F, 中環蘭桂坊2號地下, Central, Hong Kong",
+    "latitude": 22.280987,
+    "longitude": 114.155699
+  },
+  {
+    "name": "001",
+    "address": "Tai Kwun, Hollywood Rd, Central, Hong Kong",
+    "latitude": 22.280979199999997,
+    "longitude": 114.1541652
+  },
+  {
+    "name": "Infinity Thai Restaurant And Bar 狗毛",
+    "address": "Hong Kong, Central, Lan Kwai Fong, 8號3/F",
+    "latitude": 22.2806513,
+    "longitude": 114.1555894
+  },
+  {
+    "name": "Please Don't Tell",
+    "address": "15 Queen's Road Central, Central, Hong Kong",
+    "latitude": 22.2806101,
+    "longitude": 114.15769549999999
+  },
+  {
+    "name": "25:00 Twenty Fifth Hour",
+    "address": "13/F, Luk Yu Building, 24-26 Stanley St, Central, Hong Kong",
+    "latitude": 22.2821824,
+    "longitude": 114.15550359999999
+  },
+  {
+    "name": "Dr. Fern's Gin Parlour",
+    "address": "Shop B31A, First Basement Floor, Landmark Atrium, 15 Queen's Road Central, Central, Hong Kong",
+    "latitude": 22.2806782,
+    "longitude": 114.1578194
+  },
+  {
+    "name": "Bar De Luxe",
+    "address": "7/F, H Code, 45 Pottinger St, Central, Hong Kong",
+    "latitude": 22.282057899999998,
+    "longitude": 114.1545345
+  },
+  {
+    "name": "padre",
+    "address": "Hong Kong, Central, Pottinger St, 45號, The Steps, H Code, 3/F",
+    "latitude": 22.282057299999998,
+    "longitude": 114.15454109999999
+  },
+  {
+    "name": "Auritalounge",
+    "address": "Hong Kong, Bowrington, Yiu Wa St, 38號, Bigfoot Centre, 21F",
+    "latitude": 22.2772905,
+    "longitude": 114.181626
+  },
+  {
+    "name": "THE POET",
+    "address": "G/F, 13 Staunton St, Central, Hong Kong",
+    "latitude": 22.2819489,
+    "longitude": 114.15298519999999
+  },
+  {
+    "name": "SKYE",
+    "address": "27/F, 310 Gloucester Rd, Causeway Bay, Hong Kong",
+    "latitude": 22.2814709,
+    "longitude": 114.18641099999999
+  },
+  {
+    "name": "Tell Camellia",
+    "address": "45 Pottinger St, Central, Hong Kong",
+    "latitude": 22.282266999999997,
+    "longitude": 114.1545129
+  },
+  {
+    "name": "HANDS - Craft Beer & Magic",
+    "address": "27-31 Tai Nam Street, Prince Edward, Mong Kok, Hong Kong",
+    "latitude": 22.3242938,
+    "longitude": 114.1668497
+  },
+  {
+    "name": "Jagger",
+    "address": "31-41 Mody Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2974565,
+    "longitude": 114.1747212
+  },
+  {
+    "name": "Artifact",
+    "address": "LG/F, Jardine House, No, 1 & 2, Shop 5 & 7, 1 Connaught Pl, Central, Hong Kong",
+    "latitude": 22.2829697,
+    "longitude": 114.1592628
+  },
+  {
+    "name": "Draft Land HK",
+    "address": "63 Wyndham St, Central, Hong Kong",
+    "latitude": 22.281400299999998,
+    "longitude": 114.1549665
+  },
+  {
+    "name": "Foxglove",
+    "address": "2/F, Printing House, 6 Duddell St, Central, Hong Kong",
+    "latitude": 22.2796885,
+    "longitude": 114.1571496
+  },
+  {
+    "name": "Dragonfly",
+    "address": "Shop 10 - G1, Tai Kwun, 10 Hollywood Rd, Central, Hong Kong",
+    "latitude": 22.2810867,
+    "longitude": 114.1541828
+  },
+  {
+    "name": "Bar Leone",
+    "address": "15 Bridges St, Central, Hong Kong",
+    "latitude": 22.2835262,
+    "longitude": 114.151134
+  },
+  {
+    "name": "The Wise King",
+    "address": "Basement, Soho, Tsung Wing Lane, 25 Staunton St, Central, Hong Kong",
+    "latitude": 22.2821452,
+    "longitude": 114.1527914
+  },
+  {
+    "name": "The Old Man",
+    "address": "Lower G/F, 37-39 Aberdeen Street, Soho, Central, Hong Kong, Hong Kong",
+    "latitude": 22.2828387,
+    "longitude": 114.1516321
+  },
+  {
+    "name": "Quinary",
+    "address": "56, 58 Hollywood Rd, Central, Hong Kong",
+    "latitude": 22.2827034,
+    "longitude": 114.15290859999999
+  },
+  {
+    "name": "The Diplomat Hong Kong",
+    "address": "Shop 1, LG/F, H Code, 45 Pottinger St, Central, Hong Kong",
+    "latitude": 22.2822323,
+    "longitude": 114.1545989
+  },
+  {
+    "name": "ARGO",
+    "address": "8 Finance St, Central, Hong Kong",
+    "latitude": 22.2864416,
+    "longitude": 114.157066
+  },
+  {
+    "name": "COA",
+    "address": "Shop A, LG/F Wah Shin House, 6-10 Shin Hing Street, Central, Hong Kong, Central, Hong Kong",
+    "latitude": 22.2840082,
+    "longitude": 114.1520992
+  },
+  {
+    "name": "Eyebar",
+    "address": "30/F, ISQUARE, 63 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2971751,
+    "longitude": 114.1718269
+  },
+  {
+    "name": "GULU GULU",
+    "address": "Hong Kong, Tsim Sha Tsui, Knutsford Terrace, 10號四樓",
+    "latitude": 22.3013607,
+    "longitude": 114.17398589999999
+  },
+  {
+    "name": "Cardinal Point",
+    "address": "Forty-Five, Gloucester Tower Landmark, Central, Hong Kong",
+    "latitude": 22.281549,
+    "longitude": 114.1577549
+  },
+  {
+    "name": "The Green Door",
+    "address": "G/F, 97 Wellington St, Central, Hong Kong",
+    "latitude": 22.2836286,
+    "longitude": 114.15422489999999
+  },
+  {
+    "name": "The Savory Project",
+    "address": "4 Staunton Street, Soho, Central, Hong Kong",
+    "latitude": 22.2816039,
+    "longitude": 114.153127
+  },
+  {
+    "name": "ROOM 309",
+    "address": "3/F The Pottinger Hong Kong, 74 Queen's Road Central, Central, Hong Kong",
+    "latitude": 22.2827861,
+    "longitude": 114.15537289999999
+  },
+  {
+    "name": "The Iron Fairies Hong Kong",
+    "address": "LG, 1 Hollywood Rd, Central, Hong Kong",
+    "latitude": 22.2819802,
+    "longitude": 114.1545553
+  }
+]

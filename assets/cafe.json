@@ -1,0 +1,518 @@
+[
+  {
+    "name": "KURAI",
+    "address": "",
+    "latitude": 22.4037702,
+    "longitude": 113.9785239
+  },
+  {
+    "name": "mato.coffee.wine",
+    "address": "Hong Kong, Central, Nan Fung Place 173 Des Voeux Road CentralG07",
+    "latitude": 22.2858371,
+    "longitude": 114.15427389999999
+  },
+  {
+    "name": "Chart Coffee (Central Market)",
+    "address": "Shop 218, 2/F, Central Market, 93 Queen's Road Central, Central, Hong Kong",
+    "latitude": 22.283943999999998,
+    "longitude": 114.1555478
+  },
+  {
+    "name": "Milk Bar",
+    "address": "79 Apliu Street, Apliu St, Sham Shui Po, Hong Kong",
+    "latitude": 22.3280356,
+    "longitude": 114.16462759999999
+  },
+  {
+    "name": "窮撚啡 (鰂魚涌) klf coffee (quarry bay)",
+    "address": "Hong Kong, Quarry Bay, Hoi Kwong St, 13-15號, Hoi Kwong Court Block 1, 23A舖",
+    "latitude": 22.287844,
+    "longitude": 114.211047
+  },
+  {
+    "name": "Coffeelin Espresso (Wan Chai)",
+    "address": "104 Jaffe Rd, Wan Chai, Hong Kong",
+    "latitude": 22.278468,
+    "longitude": 114.172259
+  },
+  {
+    "name": "Coffeelin",
+    "address": "8號 Cheong Ming St, Happy Valley, Hong Kong",
+    "latitude": 22.268418699999998,
+    "longitude": 114.18685769999999
+  },
+  {
+    "name": "Stone Coffee",
+    "address": "56號 Centre St, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2855283,
+    "longitude": 114.1420991
+  },
+  {
+    "name": "Fonji Cafe",
+    "address": "5號 Maple St, Sham Shui Po, Hong Kong",
+    "latitude": 22.326136899999998,
+    "longitude": 114.1643424
+  },
+  {
+    "name": "KOKO Coffee Roasters",
+    "address": "Hong Kong, Tsuen Wan, Pak Tin Par St, 45號南豐紗廠六廠G09",
+    "latitude": 22.3750707,
+    "longitude": 114.1101695
+  },
+  {
+    "name": "Four x Four",
+    "address": "上徑口村143號地下, Tai Wai, Hong Kong",
+    "latitude": 22.364310699999997,
+    "longitude": 114.17458859999999
+  },
+  {
+    "name": "commaa ，coffee meets art and architecture",
+    "address": "Shop 4C, G/F, 11 Po Yan St, Sheung Wan, Hong Kong",
+    "latitude": 22.2852712,
+    "longitude": 114.14729109999999
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "address": "15 St Francis St, Wan Chai, Hong Kong",
+    "latitude": 22.275993099999997,
+    "longitude": 114.16915549999999
+  },
+  {
+    "name": "FINEPRINT",
+    "address": "Fineprint, 38 Peel St, Central, Hong Kong",
+    "latitude": 22.282680799999998,
+    "longitude": 114.1527794
+  },
+  {
+    "name": "Shelter Cafe",
+    "address": "Hong Kong, Chai Wan, Wing Tai Rd, Chai Wan Industrial City Phase 1, 13樓1307室",
+    "latitude": 22.2676458,
+    "longitude": 114.2424501
+  },
+  {
+    "name": "first crack coffee by summer ice",
+    "address": "中環嘉咸街55號",
+    "latitude": 22.2822675,
+    "longitude": 114.1526913
+  },
+  {
+    "name": "Hemma",
+    "address": "2 Second Street, 2號 Second St, Sai Ying Pun, Hong Kong",
+    "latitude": 22.286039499999998,
+    "longitude": 114.1434498
+  },
+  {
+    "name": "Grandmama Cafe",
+    "address": "",
+    "latitude": 22.302594499999998,
+    "longitude": 114.1721049
+  },
+  {
+    "name": "hara kako (Sheung Wan)",
+    "address": "Shop B, Hollywood Centre, 77-91 Queen's Rd W, Sheung Wan, Hong Kong",
+    "latitude": 22.2865258,
+    "longitude": 114.1470914
+  },
+  {
+    "name": "oneday.",
+    "address": "G/F, 23 School St, Tai Hang, Hong Kong",
+    "latitude": 22.2784922,
+    "longitude": 114.19104999999999
+  },
+  {
+    "name": "Rootdown",
+    "address": "Shop 16-19 G/F, Two Artlane, 1 Chung Ching St, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2872672,
+    "longitude": 114.14131549999999
+  },
+  {
+    "name": "21labo",
+    "address": "831L號 Canton Rd, Yau Ma Tei, Hong Kong",
+    "latitude": 22.313407299999998,
+    "longitude": 114.1682665
+  },
+  {
+    "name": "The Shack Cafe",
+    "address": "Tin Sam Village No. 84, Tai Wai, Hong Kong",
+    "latitude": 22.3693009,
+    "longitude": 114.17831109999999
+  },
+  {
+    "name": "Koolbeanz",
+    "address": "20B Tai Ping Shan St, Sheung Wan, Hong Kong",
+    "latitude": 22.2845975,
+    "longitude": 114.1483942
+  },
+  {
+    "name": "PECORINO",
+    "address": "上環文華里",
+    "latitude": 22.285584,
+    "longitude": 114.1523682
+  },
+  {
+    "name": "Halfway Coffee (Mong Kok)",
+    "address": "號地舖, 6 Soy St, Mong Kok, Hong Kong",
+    "latitude": 22.3159892,
+    "longitude": 114.16712389999999
+  },
+  {
+    "name": "Coffee + Space",
+    "address": "城市花園商場14座1樓95-96號舖, 233號 Electric Rd, North Point, Hong Kong",
+    "latitude": 22.2899049,
+    "longitude": 114.193765
+  },
+  {
+    "name": "Cupping Room (Kwun Tong)",
+    "address": "",
+    "latitude": 22.312486699999997,
+    "longitude": 114.22501849999999
+  },
+  {
+    "name": "窮撚啡 klf coffee",
+    "address": "",
+    "latitude": 22.275406099999998,
+    "longitude": 114.17165209999999
+  },
+  {
+    "name": "Ima Coffee",
+    "address": "Hong Kong, Hung Hom, Ma Tau Wai Rd, 63號15號地鋪 The Vantage",
+    "latitude": 22.3119813,
+    "longitude": 114.18816559999999
+  },
+  {
+    "name": "Humain Coffee",
+    "address": "Hong Kong, Sham Shui Po, Fuk Wing St, 57號文昌閣地下B鋪",
+    "latitude": 22.330102999999998,
+    "longitude": 114.164929
+  },
+  {
+    "name": "BEI COFFEE",
+    "address": "號 地下, 3 Sai Kung Tai St, Sai Kung, Hong Kong",
+    "latitude": 22.380183,
+    "longitude": 114.2708765
+  },
+  {
+    "name": "Number 9 Coffee",
+    "address": "Hong Kong, Tsim Sha Tsui, Granville Rd, 96號, Hilton Towers, Shop 9 G/F",
+    "latitude": 22.2994836,
+    "longitude": 114.1772245
+  },
+  {
+    "name": "Until coffee",
+    "address": "G/F, 1 Sheung Hei street San Po Kong, Diamond Hill",
+    "latitude": 22.338324999999998,
+    "longitude": 114.1981629
+  },
+  {
+    "name": "The Commune | K11 Artus",
+    "address": "18 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.2933788,
+    "longitude": 114.17395119999999
+  },
+  {
+    "name": "Pan da Cafe",
+    "address": "西貢市場街23號號地舖",
+    "latitude": 22.379550899999998,
+    "longitude": 114.2715377
+  },
+  {
+    "name": "Tearapy",
+    "address": "189 Portland St, Mong Kok, Hong Kong",
+    "latitude": 22.3169202,
+    "longitude": 114.1691041
+  },
+  {
+    "name": "Brewed",
+    "address": "Hong Kong, Central, Shop E, G/F, Fu Fai Commercial Centre, 27 Hillier Street",
+    "latitude": 22.285168,
+    "longitude": 114.1512508
+  },
+  {
+    "name": "Zombie Specialty Coffee",
+    "address": "Hong Kong, Jordan, Kwun Chung St, 9-13號Shop 1",
+    "latitude": 22.3036691,
+    "longitude": 114.1686036
+  },
+  {
+    "name": "Take your time",
+    "address": "Hong Kong, Causeway Bay, Electric Rd, 83號, Lee King Mansion, 地下一號",
+    "latitude": 22.2848187,
+    "longitude": 114.19145569999999
+  },
+  {
+    "name": "Sō Bistro Coffee & Gin",
+    "address": "221號 Lai Chi Kok Rd, Sham Shui Po, Hong Kong",
+    "latitude": 22.3269006,
+    "longitude": 114.16235789999999
+  },
+  {
+    "name": "Esc",
+    "address": "7號 Wing Hing St, Causeway Bay, Hong Kong",
+    "latitude": 22.285297699999997,
+    "longitude": 114.19124479999999
+  },
+  {
+    "name": "Grind Size Coffee",
+    "address": "10 Tung Choi St, Mong Kok, Hong Kong",
+    "latitude": 22.317114999999998,
+    "longitude": 114.17119699999999
+  },
+  {
+    "name": "FINEPRINT",
+    "address": "Shop 7, G/F, PCCW Tower, Taikoo Place, 979 King's Rd, Quarry Bay, Hong Kong",
+    "latitude": 22.287164999999998,
+    "longitude": 114.2123306
+  },
+  {
+    "name": "Winstons Coffee (Sai Ying Pun)",
+    "address": "Shop 4, G/F Rich Court, 213 Queen's Rd W, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2870362,
+    "longitude": 114.1442802
+  },
+  {
+    "name": "Winstons Coffee - Tai Hang",
+    "address": "4 King St, Tai Hang, Hong Kong",
+    "latitude": 22.2787985,
+    "longitude": 114.192267
+  },
+  {
+    "name": "ARTISTA PERFETTO (Causeway Bay)",
+    "address": "Shop 2, G/F, 3A Sharp St W, Causeway Bay, Hong Kong",
+    "latitude": 22.2776703,
+    "longitude": 114.18027909999999
+  },
+  {
+    "name": "Crew",
+    "address": "Shop 9A, 156, 164 Queen's Rd E, Wan Chai, Hong Kong",
+    "latitude": 22.2754433,
+    "longitude": 114.17129899999999
+  },
+  {
+    "name": "Craft Coffee Roaster (Wanchai)",
+    "address": "G/F, Shop B1, Eib Tower, 4-6 Morrison Hill Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2777794,
+    "longitude": 114.1796289
+  },
+  {
+    "name": "Lungo",
+    "address": "Hong Kong, Wan Chai, Hennessy Rd, 314-324號Winland SquareShop C, G/F",
+    "latitude": 22.2782604,
+    "longitude": 114.17822799999999
+  },
+  {
+    "name": "Cloud Nine Specialty Coffee",
+    "address": "G/F, Shop, 33 Morrison Hill Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2770224,
+    "longitude": 114.1804497
+  },
+  {
+    "name": "RETRO",
+    "address": "160 Jaffe Rd, Wan Chai, Hong Kong",
+    "latitude": 22.2787391,
+    "longitude": 114.1742846
+  },
+  {
+    "name": "Café Sausalito",
+    "address": "201 Tai Nan St, Sham Shui Po, Hong Kong",
+    "latitude": 22.3274466,
+    "longitude": 114.16279349999999
+  },
+  {
+    "name": "Breakthrough Book Gallery",
+    "address": "F, Breakthrough Centre G, 191 Woosung St, Jordan, Hong Kong",
+    "latitude": 22.303526899999998,
+    "longitude": 114.1700614
+  },
+  {
+    "name": "Kind of Brew",
+    "address": "G/F, 112 First St, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2864801,
+    "longitude": 114.1404891
+  },
+  {
+    "name": "Meanwhile Coffee",
+    "address": "Shop F2, LG/F, 33 Hillier St, Sheung Wan, Hong Kong",
+    "latitude": 22.2847339,
+    "longitude": 114.1509813
+  },
+  {
+    "name": "NUTMAD cafe and dining",
+    "address": "Shop 3, 1/F, Eastcore, 398-402 Kwun Tong Rd, Kwun Tong, Hong Kong",
+    "latitude": 22.313267699999997,
+    "longitude": 114.2222855
+  },
+  {
+    "name": "Hashtag Coffee",
+    "address": "Hong Kong, Sai Ying Pun, High St, 99號對面 Silver Court, B 地下",
+    "latitude": 22.2852803,
+    "longitude": 114.1404032
+  },
+  {
+    "name": "Caflex by the coffeeology",
+    "address": "G/F, 15A Matheson St, Causeway Bay, Hong Kong",
+    "latitude": 22.277604,
+    "longitude": 114.182445
+  },
+  {
+    "name": "29 Coffee",
+    "address": "Shop D, 29 Tai Yip St, Ngau Tau Kok, Hong Kong",
+    "latitude": 22.3167892,
+    "longitude": 114.2148498
+  },
+  {
+    "name": "Lattehatist",
+    "address": "Merit Court, Des Voeux Rd W, Sai Ying Pun, Hong Kong",
+    "latitude": 22.2874466,
+    "longitude": 114.1393262
+  },
+  {
+    "name": "The Site",
+    "address": "Hong Kong, Mong Kok, 太子西洋菜北街161號地下A舖",
+    "latitude": 22.325657,
+    "longitude": 114.1685962
+  },
+  {
+    "name": "bestow & THE TABIBITO",
+    "address": "Hong Kong, Mong Kok, Dundas St, 43H號, Dundas Square, 5樓",
+    "latitude": 22.315696799999998,
+    "longitude": 114.1711296
+  },
+  {
+    "name": "Tuned Coffee & Roastery",
+    "address": "Hong Kong, Mong Kok, Sai Yee St, 163-163a號, Hung Tak Building, 地下B舖",
+    "latitude": 22.3225236,
+    "longitude": 114.17085449999999
+  },
+  {
+    "name": "Uncle Ben Coffee",
+    "address": "Shop 7 G/F Fu Lee Loy Mansion 9-27 King Wah Road Fortress Hill, North Point, Hong Kong",
+    "latitude": 22.288380999999998,
+    "longitude": 114.19175059999999
+  },
+  {
+    "name": "For Single",
+    "address": "Shop D, G/F, Full Harvest Building, 6-18 Hau Wo St, Kennedy Town, Hong Kong",
+    "latitude": 22.2827847,
+    "longitude": 114.1277781
+  },
+  {
+    "name": "WoZi Cafe",
+    "address": "36 Yan Oi St, San Po Kong, Hong Kong",
+    "latitude": 22.3344944,
+    "longitude": 114.1949417
+  },
+  {
+    "name": "Liberty Coffee & Wine",
+    "address": "33號 Waterloo Rd, Mong Kok, Hong Kong",
+    "latitude": 22.3160643,
+    "longitude": 114.17344419999999
+  },
+  {
+    "name": "Liberty Coffee & Wine²",
+    "address": "Hong Kong, Mong Kok, Dundas St, 2號號地下",
+    "latitude": 22.3147263,
+    "longitude": 114.1670616
+  },
+  {
+    "name": "Espresso Alchemy",
+    "address": "1, B116, B1/F Mira Place, 132 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+    "latitude": 22.3006559,
+    "longitude": 114.1721209
+  },
+  {
+    "name": "FINEPRINT",
+    "address": "1/F, Three Exchange Square, 8 Connaught Pl, Central, Hong Kong",
+    "latitude": 22.284487499999997,
+    "longitude": 114.1573595
+  },
+  {
+    "name": "Gwee Coffee & More x Tsukimi Bakery",
+    "address": "1 Tai Ping Shan St, Sheung Wan, Hong Kong",
+    "latitude": 22.2843044,
+    "longitude": 114.14893789999999
+  },
+  {
+    "name": "Contrast",
+    "address": "Hong Kong, Cheung Sha Wan, Fuk Wing St, 512-518號, Easey Building, 地下前舖",
+    "latitude": 22.3390745,
+    "longitude": 114.15382679999999
+  },
+  {
+    "name": "Halfway Coffee (Mid-Levels)",
+    "address": "8 Rednaxela Terrace, Mid-Levels, Hong Kong",
+    "latitude": 22.2806936,
+    "longitude": 114.1516338
+  },
+  {
+    "name": "On The Hill Coffee Bar (Central)",
+    "address": "Hong Kong, Central, Hollywood Rd, 10號地下15號舖區警署)大館營房大樓舊中",
+    "latitude": 22.2806255,
+    "longitude": 114.1542353
+  },
+  {
+    "name": "Hidden Coffee & Roaster",
+    "address": "Hong Kong, Tuen Mun, Castle Peak Rd - San Hui, 97號, Lucky Building, 6號鋪",
+    "latitude": 22.397292399999998,
+    "longitude": 113.97717619999999
+  },
+  {
+    "name": "Dear Coffee & Bakery",
+    "address": "雲疊花園商場地下7號舖, 20號 Tin Sam St, Tai Wai, Hong Kong",
+    "latitude": 22.3686407,
+    "longitude": 114.1775157
+  },
+  {
+    "name": "Passepartout Brunch & Coffee",
+    "address": "Hong Kong, Jordan, Min St, 1A號, Ka Sing Building, G/F",
+    "latitude": 22.3047759,
+    "longitude": 114.16894719999999
+  },
+  {
+    "name": "Accro Café Bar",
+    "address": "Shop A-123, Zone A, H.A.N.D.S, On Ting Estate, Tuen Mun, Hong Kong",
+    "latitude": 22.3873197,
+    "longitude": 113.9759526
+  },
+  {
+    "name": "Knockbox Coffee Company",
+    "address": "23號 Hak Po St, Mong Kok, Hong Kong",
+    "latitude": 22.3176272,
+    "longitude": 114.17259709999999
+  },
+  {
+    "name": "HeySoNuts",
+    "address": "Hong Kong, To Kwa Wan, Pak Tai St, 147號地下 3 號 舖",
+    "latitude": 22.323766199999998,
+    "longitude": 114.1895584
+  },
+  {
+    "name": "Craft Coffee Roaster (Tai Kok Tsui)",
+    "address": "29 Tai Kok Tsui Rd, Tai Kok Tsui, Hong Kong",
+    "latitude": 22.3192387,
+    "longitude": 114.1618893
+  },
+  {
+    "name": "BLACK COFFEE by HeySoNuts",
+    "address": "Hong Kong, Kwun Tong, Hip Wo St, 78號裕民坊L2樓201號舖",
+    "latitude": 22.314270999999998,
+    "longitude": 114.22502899999999
+  },
+  {
+    "name": "Coffeelin (Fortress Hill)",
+    "address": "228 Electric Rd, North Point, Hong Kong",
+    "latitude": 22.2888411,
+    "longitude": 114.1933543
+  },
+  {
+    "name": "Pause It",
+    "address": "Shop 18, G/F, AIA Tower, 183 Electric Rd, North Point, Hong Kong",
+    "latitude": 22.2885234,
+    "longitude": 114.1924339
+  },
+  {
+    "name": "EN",
+    "address": "Shop B on LG/F, Wah Shin House, 6-10 Shin Hing St, Central, Hong Kong",
+    "latitude": 22.284036699999998,
+    "longitude": 114.1520628
+  }
+]
